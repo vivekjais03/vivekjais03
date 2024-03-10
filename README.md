@@ -14,7 +14,7 @@
 
 Excited to connect with fellow developers, designers, and anyone passionate about the endless possibilities of web development!
 
-- 🛠️ **Languages & Tools:** HTML, CSS, JavaScript, React.js, Git
+- 🛠️ **Languages & Tools:** :javascript:
 
 
 
