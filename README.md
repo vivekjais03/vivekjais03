@@ -10,12 +10,12 @@
 
 - ⚡ Fun fact: I believe that well-written code has the power to transform a simple idea into something extraordinary. I enjoy the creative process of coding and the impact it can have on the overall user experience.
 
-- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/vivek-jaiswal-47a807254/) to discuss potential collaborations.
+- 📫 How to reach me: You can connect with me on
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/vivek-jaiswal-47a807254/)
   [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?logo=twitter&style=flat-square)](https://twitter.com/vivek_j0101)
   [![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?logo=instagram&style=flat-square)](https://www.instagram.com/vivek_j0101/)
   [![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail&logoColor=white)](mailto:jaiswalvivek421@gmail.com)
-  [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?logo=facebook&style=flat-square)](https://www.facebook.com/jaiswalvive)
+  [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?logo=facebook&style=flat-square)](https://www.facebook.com/jaiswalvive) to discuss potential collaborations.
 
 Excited to connect with fellow developers, designers, and anyone passionate about the endless possibilities of web development!
 
