@@ -1,70 +1,76 @@
-# 👋 Hi, I'm Vivek Jaiswal (@vivekjais03)
+# Vivek Jaiswal (@vivekjais03)
 
-🚀 **Frontend Developer | React.js Enthusiast | UI/UX Explorer**
+Frontend Developer | React.js Enthusiast | UI-Focused Engineer  
 
-I’m a passionate coder who loves transforming ideas into **visually stunning and highly functional web experiences**. My primary focus lies in crafting intuitive user interfaces that balance **performance, usability, and aesthetics**.
-
----
-
-## 💡 About Me
-
-- 🎨 I specialize in building **modern, responsive, and user-centric web interfaces**
-- ⚛️ Currently deep-diving into **React.js** and modern frontend ecosystems
-- 📚 Strong believer in **continuous learning** and staying updated with the latest web trends
-- 🤝 Open to collaborating on **innovative and challenging web projects**
-- 🧠 I enjoy solving real-world problems through clean, scalable code
+I am a passionate frontend developer with a strong interest in building scalable, intuitive, and visually appealing web applications. I enjoy transforming complex ideas into clean, efficient, and user-friendly interfaces while adhering to modern development standards.
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-**Frontend**
-- HTML5 | CSS3 | JavaScript (ES6+)
-- React.js | JSX | Hooks
-- Tailwind CSS | Bootstrap
-
-**Tools & Platforms**
-- Git & GitHub
-- VS Code
-- Figma (basic UI understanding)
+- Focused on developing **responsive and accessible user interfaces**
+- Strong interest in **modern frontend technologies**, especially React.js
+- Committed to **continuous learning** and adapting to evolving web standards
+- Motivated to work on projects that emphasize **performance, usability, and design quality**
+- Open to collaboration on impactful and innovative web solutions
 
 ---
 
-## 🌱 Currently Learning
+## Technical Skills
 
-- Advanced React patterns
-- Performance optimization techniques
-- Component-driven UI architecture
-- Modern UI/UX best practices
+### Frontend Technologies
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- React.js  
 
----
-
-## 🤝 Let’s Collaborate On
-
-- Interactive frontend applications  
-- Creative UI/UX-focused projects  
-- React-based web platforms  
-- Projects that push the limits of web experiences  
-
-If you’re working on something exciting and need a frontend-focused contributor, I’d love to connect!
+### Tools & Platforms
+- Git & GitHub  
+- Visual Studio Code  
 
 ---
 
-## 📫 Connect With Me
+## Currently Learning
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vivek%20Jaiswal-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/vivek-jaiswal-47a807254/)
-[![Twitter](https://img.shields.io/badge/Twitter-@vivek__j0101-blue?logo=twitter&style=flat-square)](https://twitter.com/vivek_j0101)
-[![Instagram](https://img.shields.io/badge/Instagram-@vivek__j0101-orange?logo=instagram&style=flat-square)](https://www.instagram.com/vivek_j0101/)
-[![Facebook](https://img.shields.io/badge/Facebook-Vivek%20Jaiswal-blue?logo=facebook&style=flat-square)](https://www.facebook.com/jaiswalvive)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat-square)](mailto:jaiswalvivek421@gmail.com)
+- Advanced React.js concepts and component architecture  
+- Frontend performance optimization techniques  
+- Best practices in UI/UX and scalable frontend design  
 
 ---
 
-## ✨ Fun Fact
+## Collaboration Interests
 
-> *I believe that well-written code can turn a simple idea into something extraordinary.  
-For me, coding is both logic and art.*
+I am interested in collaborating on:
+- Frontend-heavy web applications  
+- User experience–driven projects  
+- Innovative products that require clean architecture and thoughtful design  
+
+I value teamwork, clarity in communication, and well-documented code.
 
 ---
 
-⭐ *Thanks for visiting my profile — feel free to explore my repositories and connect!*  
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivekjais03&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekjais03&layout=compact&theme=default)
+
+---
+
+## Contact & Professional Links
+
+- **LinkedIn:** https://www.linkedin.com/in/vivek-jaiswal-47a807254/  
+- **Twitter:** https://twitter.com/vivek_j0101  
+- **Instagram:** https://www.instagram.com/vivek_j0101/  
+- **Facebook:** https://www.facebook.com/jaiswalvive  
+- **Email:** jaiswalvivek421@gmail.com  
+
+---
+
+## Personal Note
+
+I believe that clean, well-structured code plays a critical role in creating meaningful digital experiences. Writing maintainable and efficient code is as important to me as delivering a polished final product.
+
+---
+
+Thank you for visiting my profile.  
+I am always open to learning, collaboration, and new opportunities.
