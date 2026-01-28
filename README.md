@@ -1,51 +1,67 @@
 # Vivek Jaiswal (@vivekjais03)
 
-Frontend Developer | React.js Enthusiast | UI-Focused Engineer  
+Software Developer | Full-Stack Enthusiast | Problem Solver  
 
-I am a passionate frontend developer with a strong interest in building scalable, intuitive, and visually appealing web applications. I enjoy transforming complex ideas into clean, efficient, and user-friendly interfaces while adhering to modern development standards.
+I am a motivated software developer with experience across multiple programming languages and technologies, spanning frontend, backend, and core computer science fundamentals. I enjoy designing and building reliable, scalable, and maintainable software systems, with a strong focus on clean architecture and efficient problem-solving.
 
 ---
 
 ## About Me
 
-- Focused on developing **responsive and accessible user interfaces**
-- Strong interest in **modern frontend technologies**, especially React.js
-- Committed to **continuous learning** and adapting to evolving web standards
-- Motivated to work on projects that emphasize **performance, usability, and design quality**
-- Open to collaboration on impactful and innovative web solutions
+- Experienced in both **frontend and backend development**
+- Comfortable working with **multiple programming languages and frameworks**
+- Strong foundation in **data structures, algorithms, and system fundamentals**
+- Interested in building **scalable, high-quality software solutions**
+- Continuously learning and adapting to new technologies and industry practices
+- Open to collaboration on challenging and impactful projects
 
 ---
 
 ## Technical Skills
 
-### Frontend Technologies
+### Programming Languages
+- Java  
+- JavaScript  
+- Python  
+- C / C++  
+- SQL  
+
+### Frontend Development
 - HTML5  
 - CSS3  
 - JavaScript (ES6+)  
 - React.js  
 
+### Backend & Databases
+- Node.js  
+- Express.js  
+- RESTful APIs  
+- MySQL / PostgreSQL  
+
 ### Tools & Platforms
 - Git & GitHub  
+- Linux  
 - Visual Studio Code  
 
 ---
 
 ## Currently Learning
 
-- Advanced React.js concepts and component architecture  
-- Frontend performance optimization techniques  
-- Best practices in UI/UX and scalable frontend design  
+- Advanced backend development and API design  
+- Full-stack application architecture  
+- Performance optimization and scalable system design  
 
 ---
 
-## Collaboration Interests
+## Collaboration & Interests
 
 I am interested in collaborating on:
-- Frontend-heavy web applications  
-- User experience–driven projects  
-- Innovative products that require clean architecture and thoughtful design  
+- Full-stack web applications  
+- Backend-focused systems and APIs  
+- Software projects requiring strong problem-solving and clean design  
+- Open-source or research-driven initiatives  
 
-I value teamwork, clarity in communication, and well-documented code.
+I value clarity, maintainability, and teamwork in all development efforts.
 
 ---
 
@@ -66,11 +82,11 @@ I value teamwork, clarity in communication, and well-documented code.
 
 ---
 
-## Personal Note
+## Personal Statement
 
-I believe that clean, well-structured code plays a critical role in creating meaningful digital experiences. Writing maintainable and efficient code is as important to me as delivering a polished final product.
+I believe that well-engineered software combines strong fundamentals, thoughtful design, and continuous improvement. I strive to write clean, efficient, and maintainable code while learning from real-world problems and collaborative development.
 
 ---
 
-Thank you for visiting my profile.  
-I am always open to learning, collaboration, and new opportunities.
+Thank you for visiting my GitHub profile.  
+I am always open to learning, collaboration, and professional opportunities.
